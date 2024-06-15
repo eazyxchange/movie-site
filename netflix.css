@@ -1,0 +1,44 @@
+h1 a {
+    color: red;
+    margin-top: 5px;
+    margin-bottom: 5px;
+
+}
+
+h2 {
+    background-color: red;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+
+    width: 150px;
+    margin: 5px auto;
+}
+
+#a{
+    padding: 20px;
+    border-radius: 5px;
+    background-color: black;
+    color: red;
+    margin: 5px;
+}
+#b{
+    padding: 20px;
+    border-radius: 5px;
+    background-color: black;
+    color: red;
+    margin: 5px;
+
+}
+#c{
+    padding: 20px;
+    border-radius: 5px;
+    background-color: black;
+    color: red;
+    margin: 5px;
+
+}
+body {
+    margin: auto;
+    text-align: center;
+}
