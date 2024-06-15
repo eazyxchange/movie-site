@@ -1,8 +1,19 @@
+.h1{
+
+}
+
 h1 a {
     color: red;
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    padding-top: 5px;
+    
 
+}
+#note{
+    font-style: italic;
+    padding: 0;
+    margin-top: 0;
 }
 
 h2 {
@@ -11,7 +22,7 @@ h2 {
     padding: 5px;
     border-radius: 5px;
 
-    width: 150px;
+    width: 200px;
     margin: 5px auto;
 }
 
@@ -31,6 +42,23 @@ h2 {
 
 }
 #c{
+    padding: 20px;
+    border-radius: 5px;
+    background-color: black;
+    color: red;
+    margin: 5px;
+
+}
+
+#d{
+    padding: 20px;
+    border-radius: 5px;
+    background-color: black;
+    color: red;
+    margin: 5px;  
+}
+
+#e{
     padding: 20px;
     border-radius: 5px;
     background-color: black;
